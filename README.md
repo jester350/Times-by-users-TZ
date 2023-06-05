@@ -28,3 +28,7 @@ You then need to add your event times in the events-data json with the format NA
 ```
 
 The javascript reads the json and calulates the time in the users TZ, assuming their TZ is set correctly, and displays the data in a table. The dates are also formatted based on the users device settings.
+
+The code works on any site as long as scripting is enabled, and as mentioned the users TZ settings are correctly set. 
+To get an idea this is one of my calendar listings
+https://driftcalendar.com/event/formula-drift-englishtown-round-4/
