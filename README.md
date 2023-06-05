@@ -1,7 +1,7 @@
 # Times-by-users-TZ
 
 This small javascript code and HTML were quickly put together for a calendar Wordpress site I run for drift events. 
-For events with livestreams, I normally list the times local to the UK, where I'm based, and wanted to initially have a script to calculate the times for me, which quickly expanded into showing the times based on the users own timezone settings.
+For events with livestreams, I normally list the times local to the UK, where I'm based, and wanted to initially have a script to calculate the times for me, which quickly expanded into showing the times based on the users own timezone settings. As I have multiple events listed over a year I wanted a solution where everything was configured in the HTML and not have to make changes to the javascript for different timezones etc.
 
 The javascript simeply needs to be deployed somewhere on the webserver
 The HTML firstly needs be be updated so the javascript src is correct
